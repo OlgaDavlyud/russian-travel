@@ -1,5 +1,8 @@
 .places {
-    width: 984px;
-    height: 3392px;
-    margin: 90px 148px 0;
+    max-width: 984px;
+    max-height: 3392px;
+    margin: 92px auto 0;
+    display: grid;
+    grid-template-rows: repeat(5, 20%);
+    row-gap: 80px;
 }

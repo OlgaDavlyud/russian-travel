@@ -1,7 +1,7 @@
 .lead__subtitle {
     width: 640px;
     height: 72px;
-    margin: 32px 320px 64px;
+    margin: 32px auto 0px;
     font-family: 'Inter';
     font-style: normal;
     font-weight: 400;

@@ -1,6 +1,6 @@
 .footer {
-    width: 1184px;
-    height: 18px;
+    min-width: 1184px;
+    min-height: 18px;
     margin: 92px 48px 24px;
     display: flex;
 }

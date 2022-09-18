@@ -1,4 +1,4 @@
 .intro {
-    width: 690px;
-    height: 429px;
+    min-width: 690px;
+    min-height: 429px;
 }
