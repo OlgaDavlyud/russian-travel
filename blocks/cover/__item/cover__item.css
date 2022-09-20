@@ -1,0 +1,14 @@
+.cover__item {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    z-index: 3;
+}
+
+.cover__item::before {
+    opacity: 0;
+}
+
+.cover__item:hover::before {
+    opacity: 0.8;
+}

@@ -2,7 +2,12 @@
     max-width: 984px;
     max-height: 660px;
     display: grid;
-    grid-template-rows: 1fr 2fr;
+    grid-template-rows: 1fr 1fr;
     grid-template-columns: 460px 1fr;
     gap: 40px 48px;
+
+}
+
+.place__card-s {
+    max-height: 584px;
 }
