@@ -5,9 +5,5 @@
     grid-template-rows: 1fr 1fr;
     grid-template-columns: 460px 1fr;
     gap: 40px 48px;
-
-}
-
-.place__card-s {
-    max-height: 584px;
+    margin-bottom: 80px;
 }

@@ -1,7 +1,5 @@
 .place__description {
     max-width: 484px;
-    max-height: 348px;
     display: flex;
     flex-direction: column;
-    justify-content: space-between;  
 }
