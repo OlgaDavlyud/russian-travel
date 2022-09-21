@@ -1,9 +1,12 @@
 .cover__content {
     width: 100%;
     box-sizing: border-box;
+
     display: flex;
     flex-direction: column;
     justify-content: center;
-    z-index: 1;
+    
     color: #FFF;
+
+    z-index: 1;
 }
