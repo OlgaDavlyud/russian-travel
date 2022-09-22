@@ -1,6 +1,8 @@
 .places {
     max-width: 984px;
+
     margin: 0 auto 92px;
+    
     display: grid;
     grid-template-rows: 660px 584px 584px 660px 584px;
     gap: 80px;

@@ -1,8 +1,11 @@
 .intro__list {
     width: 690px;
     height: 90px;
-    margin: 0 442px 0 148px;
+
+    margin-top: 33px;
+    margin-bottom: 0;
     padding-left: 0;
+    
     font-family: 'Inter';
     font-style: normal;
     font-weight: 700;
