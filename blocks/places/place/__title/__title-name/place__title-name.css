@@ -1,0 +1,10 @@
+.place__title-name {
+    display: block;
+}
+
+@media screen and (max-width: 320px) {
+    .place__title-name {
+        display: inline;
+        margin-right: 5px;
+    } 
+}

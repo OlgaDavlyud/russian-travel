@@ -1,3 +1,9 @@
 .place__card-s {
     max-height: 584px;
 }
+
+@media screen and (max-width: 1024px) {
+    .place__card-m {
+        max-height: 564x;
+    }
+}

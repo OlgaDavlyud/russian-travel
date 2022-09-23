@@ -8,3 +8,21 @@
   line-height: 163%;
   color: #fff;
 }
+
+.place__paragraph:last-child {
+  margin-bottom: 0;
+}
+
+@media screen and (max-width: 1024px) {
+  .place__paragraph {
+      margin-bottom: 27px;
+  }  
+}
+
+@media screen and (max-width: 768px) {
+  .place__paragraph {
+      margin-bottom: 25px;
+      font-size: 16px;
+      line-height: 163%;
+  }  
+}

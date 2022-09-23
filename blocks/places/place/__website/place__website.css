@@ -4,3 +4,9 @@
     margin: 0;
     align-self: end;
 }
+
+@media screen and (max-width: 320px) {
+    .place__website {
+        max-width: 288px;
+    }    
+}

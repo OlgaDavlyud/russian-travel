@@ -7,3 +7,26 @@
     grid-template-rows: 660px 584px 584px 660px 584px;
     gap: 80px;
 }
+
+@media screen and (max-width: 1024px) {
+    .places {
+        max-width: calc(100% - 96px);
+        grid-template-rows: 640px 564px 564px 640px 564px;
+    }
+}
+
+@media screen and (max-width: 768px) {
+    .places {
+        max-width: calc(100% - 48px);
+        grid-template-rows: 581px 535px 483px 434px 484px;
+        margin: 88px 24px 0;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .places {
+        max-width: 320px;
+        grid-template-rows: 1024px 1016px 990px 964px 965px;
+        margin: 64px 0 0;
+    }
+}
