@@ -22,11 +22,18 @@
     }
 }
   
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .cover__subtitle {
-        margin: 0 auto 33px;
-        
+        max-width: 273px;
+        margin: 0 auto 73px;
         font-size: 14px;
         line-height: 16px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .cover__subtitle {
+        max-width: 288px;
+        margin: 0 auto 33px;
     }
 }

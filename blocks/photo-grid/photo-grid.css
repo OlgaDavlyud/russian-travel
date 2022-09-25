@@ -22,10 +22,21 @@
     .photo-grid {
       max-width: calc(100% - 48px);
       margin: 88px auto 0;
-
+      
       grid-template-columns: repeat(2, 1fr);
       grid-template-rows: auto;
       gap: 16px;
+    }
+  }
+
+  @media screen and (max-width: 425px) {
+    .photo-grid {
+      max-width: calc(100% - 32px);
+      margin-top: 72px;
+      
+      grid-template-columns: 1fr;
+      grid-template-rows: auto;
+      gap: 14px;
     }
   }
 
@@ -33,9 +44,8 @@
     .photo-grid {
       max-width: calc(100% - 32px);
       margin-top: 64px;
-      
-      grid-template-columns: 1fr;
-      grid-template-rows: auto;
       gap: 12px;
     }
   }
+
+  

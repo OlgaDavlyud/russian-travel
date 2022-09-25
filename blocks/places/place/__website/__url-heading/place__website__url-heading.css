@@ -11,9 +11,15 @@
     color: #aaa;
 }
 
+@media screen and (max-width: 425px) {
+    .place__website__url-heading {
+        max-width: 393px;
+        line-height: 12px;
+    }    
+}
+
 @media screen and (max-width: 320px) {
     .place__website__url-heading {
         max-width: 288px;
-        line-height: 12px;
     }    
 }

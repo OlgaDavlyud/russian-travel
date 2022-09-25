@@ -7,3 +7,15 @@
         max-height: 640px;
     }
 }
+
+@media screen and (max-width: 425px) {
+    .place__card-m {
+        max-height: 1017px;
+    }
+}
+
+@media screen and (max-width: 320px) {
+    .place__card-m {
+        max-height: 1042px;
+    }
+}

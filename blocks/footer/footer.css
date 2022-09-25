@@ -19,3 +19,21 @@
     margin: 88px 24px 24px;
   }
 }
+
+@media screen and (max-width: 425px) {
+  .footer {
+    display: block;
+    max-width: calc(100% - 239px);
+    margin-top: 64px;
+    margin-right: 223px;
+    margin-left: 16px ;
+  }
+}
+
+@media screen and (max-width: 320px) {
+  .footer {
+    max-width: calc(100% - 134px);
+    margin-right: 118px;
+    margin-left: 16px ;
+  }
+}

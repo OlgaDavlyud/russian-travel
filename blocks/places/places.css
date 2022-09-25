@@ -23,10 +23,18 @@
     }
 }
 
+@media screen and (max-width: 425px) {
+    .places {
+        max-width: 425px;
+        grid-template-rows: 1017px 1017px 991px 939px 941px;
+        margin: 64px 0 0;
+        gap: 50px;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .places {
         max-width: 320px;
         grid-template-rows: 1024px 1016px 990px 964px 965px;
-        margin: 64px 0 0;
     }
 }

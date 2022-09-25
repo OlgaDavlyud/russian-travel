@@ -2,9 +2,9 @@
     display: block;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 425px) {
     .place__title-name {
         display: inline;
-        margin-right: 5px;
+        margin-right: inherit;
     } 
 }

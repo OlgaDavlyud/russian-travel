@@ -49,9 +49,18 @@
     
 }
 
+@media screen and (max-width: 425px) {
+    .cover {
+        max-width: 425px;
+        min-height: 284px;
+        margin-top: 78px;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .cover {
         max-width: 320px;
         min-height: 200px;
+        margin-top: 66px;
     }
 }
