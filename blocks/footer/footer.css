@@ -26,7 +26,7 @@
     max-width: calc(100% - 239px);
     margin-top: 64px;
     margin-right: 223px;
-    margin-left: 16px ;
+    margin-left: 16px;
   }
 }
 
@@ -34,6 +34,5 @@
   .footer {
     max-width: calc(100% - 134px);
     margin-right: 118px;
-    margin-left: 16px ;
   }
 }
