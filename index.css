@@ -36,7 +36,7 @@
 @import url(./blocks/cover/cover.css);
 @import url(./blocks/cover/__content/cover__content.css);
 @import url(./blocks/cover/__content/__title/cover__title.css);
-@import url(./blocks/cover/__content/__title/__link/cover__title__link.css);
+@import url(./blocks/cover/__content/__title/__link/title__link.css);
 @import url(./blocks/cover/__content/__title/__name/cover__name.css);
 @import url(./blocks/cover/__content/__subtitle/cover__subtitle.css);
 
