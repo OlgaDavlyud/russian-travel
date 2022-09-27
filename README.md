@@ -20,4 +20,4 @@ ____
 5. Локально подключены шрифты.
 
 
-Ссылка на проект: [https://github.com/OlgaDavlyud/russian-travel.git]
+Ссылка на проект: [https://olgadavlyud.github.io/russian-travel/]
