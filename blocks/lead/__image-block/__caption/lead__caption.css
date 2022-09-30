@@ -1,8 +1,7 @@
 .lead__caption {
     min-width: 158px;
     margin-top: 8px;
-    margin-bottom: 0;
-    
+
     font-family: 'Inter', 'Arial', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -15,12 +14,12 @@
 
 @media screen and (max-width: 768px) {
     .lead__caption {
-        margin-left: 24px;
+        padding-left: 24px;
     }
 }
 
 @media screen and (max-width: 320px) {
     .lead__caption {
-        margin-left: 16px;
+        padding-left: 16px;
     }
 }
