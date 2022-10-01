@@ -1,4 +1,4 @@
-.header__lang-link {
+.header__lang_link {
   margin-right: 18px;
 
   color: #fff;
@@ -11,16 +11,16 @@
   transition: opacity 0.3s;
 }
 
-.header__lang-link:last-of-type {
+.header__lang_link:last-of-type {
   margin-right: 0;
 }
 
-.header__lang-link:hover {
+.header__lang_link:hover {
   opacity: 0.8;
 }
 
 @media screen and (max-width: 425px) {
-  .header__lang-link {
+  .header__lang_link {
     font-size: 18px;
     line-height: 20px;
   }

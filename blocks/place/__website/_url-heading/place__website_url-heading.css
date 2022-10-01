@@ -1,4 +1,4 @@
-.place__website-url-heading {
+.place__website_url-heading {
     padding-bottom: 12px;
 
     font-family: 'Inter', 'Arial', sans-serif;
@@ -12,13 +12,13 @@
 }
 
 @media screen and (max-width: 425px) {
-    .place__website-url-heading {
+    .place__website_url-heading {
         max-width: 393px;
     }
 }
 
 @media screen and (max-width: 320px) {
-    .place__website-url-heading {
+    .place__website_url-heading {
         max-width: 288px;
     }
 }
