@@ -1,4 +1,4 @@
-.place__website_link {
+.place__website_element_link {
     font-family: 'Inter', 'Arial', sans-serif;
     font-style: normal;
     font-weight: 400;
@@ -10,6 +10,6 @@
     transition: opacity 0.3s;
 }
 
-.place__website_link:hover {
+.place__website_element_link:hover {
     opacity: 0.8;
 }
