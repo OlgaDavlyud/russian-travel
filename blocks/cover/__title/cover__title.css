@@ -14,6 +14,14 @@
     z-index: 1;
 }
 
+@media screen and (max-width: 425px) {
+    .cover__title {
+        max-width: 393px;
+        font-size: 52px;
+		line-height: 48px;
+    }
+}
+
 @media screen and (max-width: 320px) {
     .cover__title {
         max-width: 288px;

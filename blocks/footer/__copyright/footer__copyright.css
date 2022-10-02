@@ -11,7 +11,7 @@
     color: #fff;
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 670px) {
   .footer__copyright {
     margin-top: 50px;
     line-height: 15px;

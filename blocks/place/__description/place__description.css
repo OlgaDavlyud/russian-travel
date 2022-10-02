@@ -17,9 +17,9 @@
     }
 }
 
-@media screen and (max-width: 550px) {
+@media screen and (max-width: 670px) {
     .place__description {
-       max-width: 514px;
+       max-width: 634px;
 	   margin: 0 18px 0;
     }
 }
