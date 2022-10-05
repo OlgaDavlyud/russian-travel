@@ -11,15 +11,15 @@
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
     .place__description {
         max-width: 352px;
     }
 }
 
-@media screen and (max-width: 670px) {
+@media screen and (max-width: 767px) {
     .place__description {
-       max-width: 634px;
+       max-width: 732px;
 	   margin: 0 18px 0;
     }
 }

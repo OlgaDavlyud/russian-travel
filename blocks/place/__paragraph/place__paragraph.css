@@ -10,25 +10,21 @@
 }
 
 .place__paragraph:last-child {
-  margin-bottom: 0;
+   margin-bottom: 0;
 }
 
 @media screen and (max-width: 1024px) {
   .place__paragraph {
-      margin-bottom: 27px;
+    margin-bottom: 27px;
   }
 }
 
-@media screen and (max-width: 840px) {
+@media screen and (max-width: 1023px) {
   .place__paragraph {
 		font-size: 16px;
-		line-height: 155%;
+		line-height: 163%;
+		/* or 26px */
+    margin-bottom: 25px;
   }
 }
 
-@media screen and (max-width: 768px) {
-  .place__paragraph {
-      margin-bottom: 25px;
-      font-size: 16px;
-  }
-}

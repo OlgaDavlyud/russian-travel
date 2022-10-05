@@ -16,7 +16,7 @@
     }
 }
 
-@media screen and (max-width: 768px) {
+@media screen and (max-width: 1023px) {
     .place {
         max-width: 720px;
         grid-template-columns: 340px minmax(min-content, max-content);
@@ -24,23 +24,17 @@
     }
 }
 
-@media screen and (max-width: 670px) {
+@media screen and (max-width: 767px) {
 	.place {
-		max-width: 670px;
+		max-width: 767px;
 		grid-template-columns: minmax(min-content, max-content);
 		gap: 35px;
 	}
 }
 
-@media screen and (max-width: 425px) {
-    .place {
-        max-width: 425px;
-        gap: 32px;
-    }
-}
-
 @media screen and (max-width: 320px) {
     .place {
         max-width: 320px;
+        gap: 32px;
     }
 }
