@@ -1,4 +1,4 @@
-.website__link {
+.place__link {
     max-width: max-content;
 
     font-family: 'Inter', 'Arial', sans-serif;
@@ -12,6 +12,6 @@
     transition: opacity 0.3s;
 }
 
-.website__link:hover {
+.place__link:hover {
     opacity: 0.8;
 }
